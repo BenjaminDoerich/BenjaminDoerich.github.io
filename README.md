@@ -5,7 +5,7 @@
 
 # About me 
 
-I am a junior research group leader of the roup [''Numerical methods for nonlinear optics''](https://ianm.math.kit.edu/jrg/nmno/index.php) at Karlsruhe Institute of Technolgy within the Collaborative Research Center (CRC) 1173 [Wave phenomena: analysis and numerics](https://www.waves.kit.edu/). 
+I am a junior research group leader of the group [''Numerical methods for nonlinear optics''](https://ianm.math.kit.edu/jrg/nmno/index.php) at Karlsruhe Institute of Technolgy within the Collaborative Research Center (CRC) 1173 [Wave phenomena: analysis and numerics](https://www.waves.kit.edu/). 
 
 Links to my [ORCID](https://orcid.org/0000-0001-5840-2270) and [Google Scholar](https://scholar.google.de/citations?user=h9b6i00AAAAJ&hl=en) page.
 
