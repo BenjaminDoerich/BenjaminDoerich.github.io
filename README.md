@@ -34,7 +34,7 @@ Numerical solution of (time-dependent) partial differential equations
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
 1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations.  [Preprint](https://arxiv.org/pdf/2505.22532)
 1. J. Careaga, B. Dörich, and V. Nikolić: Finite element discretization of nonlinear models of ultrasound heating.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-3.pdf)
-1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
+1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. B. Dörich and V. Nikolić:  Robust fully discrete error bounds for the Kuznetsov equations in the inviscid limit.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-1.pdf)
 
 # Peer-reviewed Publications
