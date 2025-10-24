@@ -31,7 +31,7 @@ Numerical solution of (time-dependent) partial differential equations
 
 # Preprints
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
-1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations.  [Preprint](https://arxiv.org/pdf/2505.22532|Preprint)
+1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations.  [Preprint](https://arxiv.org/pdf/2505.22532)
 1. J. Careaga, B. Dörich, and V. Nikolić: Finite element discretization of nonlinear models of ultrasound heating.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-3.pdf)
 1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. B. Dörich and V. Nikolić:  Robust fully discrete error bounds for the Kuznetsov equations in the inviscid limit.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-1.pdf)
@@ -41,7 +41,7 @@ Numerical solution of (time-dependent) partial differential equations
 1. B. Dörich, J. Dörner, and M. Hochbruck: Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions. (accepted in Math. Comp.) [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-16.pdf)
 1. S. Burkhard, B. Dörich, M. Hochbruck, and C. Lasser: Variational Gaussian approximation for the magnetic Schrödinger equation. J. Phys. A: Math. Theor. 57, 295202, 2024. [Link](https://doi.org/10.1088/1751-8121/ad591e),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2023-4.pdf)
 1. B. Dörich and P. Henning: Error bounds for discrete minimizers of the Ginzburg-Landau energy in the high-$\kappa$ regime. SIAM J. Numer. Anal., 62(3):1313–1343, 2024. [Link](https://doi.org/10.1137/23M1560938), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2023-11.pdf)
-1. B. Dörich: Strong norm error bounds for quasilinear wave equations under weak CFL-type conditions. Found. Comput. Math., 25:303–350, 2025. [Link](https://doi.org/10.1007/s10208-024-09639-w),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2022-52.pdf|Preprint)
+1. B. Dörich: Strong norm error bounds for quasilinear wave equations under weak CFL-type conditions. Found. Comput. Math., 25:303–350, 2025. [Link](https://doi.org/10.1007/s10208-024-09639-w),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2022-52.pdf)
 1. B. Dörich, J. Leibold, and B. Maier: Maximum norm error bounds for the full discretization of non-autonomous wave equations. IMA J. Numer. Anal., 44(4):2480-2512, 2024 [Link](https://doi.org/10.1093/imanum/drad065),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2021-47.pdf)
 1. B. Dörich and K. Zerulla: Wellposedness and regularity for linear Maxwell equations with surface current. Z. Angew. Math. Phys. 74, 131, 2023 [Link](https://doi.org/10.1007/s00033-023-02021-w),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2022-32.pdf)
 1. B. Dörich, J. Leibold, and B. Maier: Optimal W^{1,\infty}-estimates for an isoparametric finite element discretization of elliptic boundary value problems. Electron. Trans. Numer. Anal., 58:1--21, 2023. [Link](https://doi.org/10.1553/etna_vol58s1),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2022-11.pdf)
