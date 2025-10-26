@@ -26,8 +26,8 @@ author:
   avatar           : "doerich_kit.png"
   name             : "Benjamin Dörich"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Karlsruhe"
   employer         : "Karlsruhe Intitute of Technology"
   uri              : # URL
   email            : "benjamin.doerich@kit.edu" 
