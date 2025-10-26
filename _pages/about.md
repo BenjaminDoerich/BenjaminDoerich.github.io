@@ -15,7 +15,7 @@ I am a junior research group leader of the group [''Numerical methods for nonlin
 
 
 
-# Research interests
+## Research interests
 
 Numerical solution of (time-dependent) partial differential equations
 
