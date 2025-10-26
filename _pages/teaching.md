@@ -11,7 +11,7 @@ redirect_from:
 
 ## Senior lecturer
 
-* Finite element methods, Winter 2025/26:
+* Finite element methods, Winter 2025/26
 * Introduction to scientific computing, Summer 2025
 * Space and time discretization of nonlinear wave equations, Winter 2023/24
 * Exponential integrators, Winter 2021/22

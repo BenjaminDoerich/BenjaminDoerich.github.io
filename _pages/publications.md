@@ -18,7 +18,7 @@ redirect_from:
 1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. B. Dörich and V. Nikolić:  Robust fully discrete error bounds for the Kuznetsov equations in the inviscid limit.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-1.pdf)
 
-# Peer-reviewed articles
+## Peer-reviewed articles
 
 1. B. Dörich, J. Dörner, and M. Hochbruck: Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions. (accepted in Math. Comp.) [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-16.pdf)
 1. S. Burkhard, B. Dörich, M. Hochbruck, and C. Lasser: Variational Gaussian approximation for the magnetic Schrödinger equation. J. Phys. A: Math. Theor. 57, 295202, 2024. [Link](https://doi.org/10.1088/1751-8121/ad591e),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2023-4.pdf)
@@ -31,11 +31,11 @@ redirect_from:
 1. B. Dörich and J. Leibold: Full discretization error analysis of exponential integrators for semilinear wave equations. Math. Comp., 91(336):1687–1709, 2022. [Link](https://doi.org/10.1090/mcom/3736),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2021-31.pdf)
 1. S. Buchholz, B. Dörich, and M. Hochbruck: On averaged exponential integrators for semilinear wave equations with solutions of low-regularity. SN Partial Differ. Equ. Appl., 2(2), 2021.   [Link](https://doi.org/10.1007/s42985-020-00045-9),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2020-8.pdf)
 
-# Software
+## Software
 
 1. S. Daubner, A. E. Cohen, B. Dörich, S. J. Cooper: "evoxels: A differentiable physics framework for voxel-based microstructure simulations." [Preprint](https://arxiv.org/abs/2507.21748)
 
-# Thesis
+## Thesis
 
 1. B. Dörich: "Error Analysis of Exponential Integrators for Nonlinear Wave-Type Equations".
 PhD thesis, Karlsruher Institut für Technologie (KIT), February 2021.  [Link](http://doi.org/10.5445/IR/1000130187)
