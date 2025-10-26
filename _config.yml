@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : #"Your Name / Site Title"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Benjamin Dörich"
 title_separator          : "-"
 name                     : &name "Bejnamin Dörich"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -29,9 +29,9 @@ author:
   avatar           : "doerich_kit.png"
   name             : #"Benjamin Dörich"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Junior research group leader"
   location         : "Karlsruhe"
-  employer         : "Karlsruhe Intitute of Technology"
+  employer         : "Karlsruhe Institute of Technology"
   uri              : # URL
   email            : "benjamin.doerich@kit.edu" 
 
