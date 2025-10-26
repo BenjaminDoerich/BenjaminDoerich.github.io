@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
+
 # Preprints
 
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
