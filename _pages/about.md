@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Benjamin Döric"
 author_profile: true
 redirect_from: 
   - /about/
@@ -34,7 +34,7 @@ Numerical solution of (time-dependent) partial differential equations
   * Appearance of vortices in superconductors
   * Effects of 2D materials in plasmonic nanogaps
   * Tortuosity in porous media with application to batteries
-
+f
 # Preprints
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
 1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations.  [Preprint](https://arxiv.org/pdf/2505.22532)
