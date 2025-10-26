@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Benjamin Döric"
+title: "Benjamin Dörich"
 author_profile: true
 redirect_from: 
   - /about/
