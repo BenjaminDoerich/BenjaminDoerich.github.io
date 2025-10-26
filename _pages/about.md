@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+
+
+I am a junior research group leader of the group [''Numerical methods for nonlinear optics''](https://ianm.math.kit.edu/jrg/nmno/index.php) at Karlsruhe Institute of Technolgy within the Collaborative Research Center (CRC) 1173 [Wave phenomena: analysis and numerics](https://www.waves.kit.edu/). 
+
+Links to my [ORCID](https://orcid.org/0000-0001-5840-2270) and [Google Scholar](https://scholar.google.de/citations?user=h9b6i00AAAAJ&hl=en) page.
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
