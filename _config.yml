@@ -26,8 +26,8 @@ repository               : "BenjaminDoerich/benjamindoerich.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "doerich_kit.png"
-  name             : "Benjamin Dörich"
+  avatar           : "images/doerich_kit.png"
+  name             : #"Benjamin Dörich"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Karlsruhe"
