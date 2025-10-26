@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# Preprints
+## Preprints
 
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
 1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations.  [Preprint](https://arxiv.org/pdf/2505.22532)
