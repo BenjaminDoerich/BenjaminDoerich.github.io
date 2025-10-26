@@ -18,7 +18,7 @@ redirect_from:
 1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. B. Dörich and V. Nikolić:  Robust fully discrete error bounds for the Kuznetsov equations in the inviscid limit.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-1.pdf)
 
-# Peer-reviewed Publications
+# Peer-reviewed articles
 
 1. B. Dörich, J. Dörner, and M. Hochbruck: Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions. (accepted in Math. Comp.) [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-16.pdf)
 1. S. Burkhard, B. Dörich, M. Hochbruck, and C. Lasser: Variational Gaussian approximation for the magnetic Schrödinger equation. J. Phys. A: Math. Theor. 57, 295202, 2024. [Link](https://doi.org/10.1088/1751-8121/ad591e),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2023-4.pdf)
