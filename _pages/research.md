@@ -44,6 +44,8 @@ via an interface jump in the tangential component of the magnetic field \\(\math
 
 
 
+<img src="images/experiment-1.png" alt="A bowl of ice cream" title=" This is a delicious bowl of ice cream.">
+
 
  
 ## Numerical methods for nonlinear wave equations
