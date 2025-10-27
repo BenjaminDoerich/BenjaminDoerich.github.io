@@ -37,6 +37,8 @@ via an interface jump in the tangential component of the magnetic field \\(\math
 
 ![Experimental setup](./images/experiment-1.png)
 
+![Experimental setup3](images/experiment-1.png)
+
 
 ![Experimental setup2](experiment-1.png)
 
