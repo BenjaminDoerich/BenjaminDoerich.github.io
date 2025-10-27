@@ -19,7 +19,7 @@ $$E(u,\mathbf{A}) = \frac{1}{2} \int_\Omega |\frac{i}{\kappa} \nabla u + \mathbf
 
 where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter $\kappa$ is crucial for the appearance of vortices. The so-called high-\\(\kappa\\) regime is the physically most interesting regime, but numerically it is also the most challenging one because it requires fine meshes to resolve all lattice structures. In our research we want to understand how we have to discretize this problem in order to capture the correct vortex patterns.
 
-![\\(\kappa = 10\\)](plot_sol_kappa_10_h8.png)
+<!-- ![\\(\kappa = 10\\)](plot_sol_kappa_10_h8.png)
 ![\\(\kappa = 17\\)](plot_sol_kappa_17_h8.png)
 ![\\(\kappa = 24\\)](plot_sol_kappa_24_h8.png)
 
@@ -28,19 +28,18 @@ test
 <p align="center">
   <img src="https://github.com/BenjaminDoerich/BenjaminDoerich.github.io/blob/main/images/plot_sol_kappa_24_h8.png" width="200"><br>
   <b>\(\kappa = 10\)</b>
-</p>
+</p> -->
 
 test2
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="200"><br>
-  <b>\(\kappa = 10\)</b>
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="200"><br>
-  <b>\(\kappa = 17\)</b>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="200"><br>
-  <b>\(\kappa = 24\)</b>
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="100"><br>
+<b>\(\kappa = 10\)</b>
+<!-- &nbsp;&nbsp;&nbsp; -->
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="100"><br>
+<b>\(\kappa = 17\)</b>
+<!-- &nbsp;&nbsp;&nbsp; -->
+  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="100"><br>
+<b>\(\kappa = 24\)</b>
 </p>
 
 
