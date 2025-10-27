@@ -33,22 +33,16 @@ test
 <!-- test2 -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="100"><br>
-<b>\(\kappa = 10\)</b>
-<!-- &nbsp;&nbsp;&nbsp; -->
-<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="100"><br>
-<b>\(\kappa = 17\)</b>
-<!-- &nbsp;&nbsp;&nbsp; -->
-  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="100"><br>
-<b>\(\kappa = 24\)</b>
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="200">
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="200">
+&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="200"><br>
+<b>Density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).</b>
 </p>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="100"><br><img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="100"><br><img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="100"><br>
-</p>
 
-The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
 
 
 
