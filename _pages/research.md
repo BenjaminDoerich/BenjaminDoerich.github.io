@@ -30,7 +30,8 @@ test
   <b>\(\kappa = 10\)</b>
 </p> -->
 
-test2
+<!-- test2 -->
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="100"><br>
 <b>\(\kappa = 10\)</b>
@@ -42,8 +43,6 @@ test2
 <b>\(\kappa = 24\)</b>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/johndoe/myrepo/main/plot_sol_kappa_10_h8.png" width="400">
 
 The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
 
