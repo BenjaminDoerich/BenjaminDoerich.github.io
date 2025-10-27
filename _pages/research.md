@@ -44,6 +44,10 @@ test
 </p>
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_10_h8.png" width="100"><br><img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_17_h8.png" width="100"><br><img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/plot_sol_kappa_24_h8.png" width="100"><br>
+</p>
+
 The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
 
 
@@ -55,8 +59,13 @@ Here, we study (nonlinear) Maxwell equations on a 3d domain which interacts with
 
 via an interface jump in the tangential component of the magnetic field \\(\mathbf{H}\\) coming from a surface current. For the current can either be modelled via response theory or as a current derived from a magnetic Schrödinger equation. Because of its interdisciplinary aspects, this project will be conducted together with the Theoretical Optics & Photonics group of K. Busch at HU Berlin.
 
-![Experimental setup](experiment-1.png)
+<!-- ![Experimental setup](experiment-1.png) -->
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BenjaminDoerich/BenjaminDoerich.github.io/main/images/experiment-1.png" width="400"><br>
+<b>Experimental set-up</b>
+</p>
 
  
 ## Numerical methods for nonlinear wave equations
