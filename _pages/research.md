@@ -27,6 +27,13 @@ test
 
 <img src="plot_sol_kappa_10_h8.png" alt="\(\kappa = 10\)" width="400">
 
+test 2
+
+
+<p align="center">
+  <img src="plot_sol_kappa_10_h8.png" width="400"><br>
+  <b>\(\kappa = 10\)</b>
+</p>
 
 The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
 
