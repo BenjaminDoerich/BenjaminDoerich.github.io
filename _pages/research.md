@@ -24,6 +24,7 @@ via an interface jump in the tangential component of the magnetic field \\(\math
 
 Superconductors are materials that allow to conduct electricity without any electrical resistance. The superconductivity in Ω can be modeled by a complex-valued wave function \\(u \colon \Omega \to \mathbb{C}\\), which is called the order parameter. The physical quantity of interest is |u|^2, which denotes the density of the superconducting electron pairs. Together with the magnetic vector potential \\(\mathbf{A}\\), the order parameter can be characterized as a minimizer of the Ginzburg–Landau energy
 
+$$E(u,\mathbf{A}) = \frac{1}{2} \int_\Omega |\frac{i}{\kappa} \nabla u + \mathbf{A} \sol |^2 + \frac{1}{2} \bigl( 1- |u|^2 \bigr)^2 + |\textup{curl} \mathbf{A} - \mathbf{H}|^2  \,dx$$
 
 
 where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter \kappa is crucial for the appearance of vortices. The so-called high-\kappa regime is the physically most interesting regime, but numerically it is also the most challenging one because it requires fine meshes to resolve all lattice structures. In our research we want to understand how we have to discretize this problem in order to capture the correct vortex patterns.
