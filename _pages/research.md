@@ -31,7 +31,7 @@ test 2
 
 
 <p align="center">
-  <img src="plot_sol_kappa_10_h8.png" width="400"><br>
+  <img src="plot_sol_kappa_10_h8.png" width="200"><br>
   <b>\(\kappa = 10\)</b>
 </p>
 
