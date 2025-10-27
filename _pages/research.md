@@ -20,7 +20,7 @@ $$E(u,\mathbf{A}) = \frac{1}{2} \int_\Omega |\frac{i}{\kappa} \nabla u + \mathbf
 where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter \\(\kappa\\) is crucial for the appearance of vortices. The so-called high-\\(\kappa\\) regime is the physically most interesting regime, but numerically it is also the most challenging one because it requires fine meshes to resolve all lattice structures. In our research we want to understand how we have to discretize this problem in order to capture the correct vortex patterns.
 
  
-Denisity \\(|u|^2\\) of minimizers for the different values of \\(\kappa = 10,17,24\\).
+Density \\(|u|^2\\) of minimizers for the different values of \\(\kappa = 10,17,24\\).
 
 
 
@@ -31,7 +31,7 @@ Here, we study (nonlinear) Maxwell equations on a 3d domain which interacts with
 
 via an interface jump in the tangential component of the magnetic field \\(\mathbf{H}\\) coming from a surface current. For the current can either be modelled via response theory or as a current derived from a magnetic Schrödinger equation. Because of its interdisciplinary aspects, this project will be conducted together with the Theoretical Optics & Photonics group of K. Busch at HU Berlin.
 
-![Experimental setup](./files/experiment.pdf)
+![Experimental setup](./images/experiment.pdf)
 
 
 
