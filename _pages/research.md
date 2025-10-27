@@ -15,6 +15,9 @@ redirect_from:
 Here, we study (nonlinear) Maxwell equations on a 3d domain which interacts with a 2d materials, such as Graphene and transition-metal dichalcogenides (TMDC). The interaction takes place on the interface 𝐹𝑖𝑛𝑡
 
 via an interface jump in the tangential component of the magnetic field \\(\mathbf{H}\\) coming from a surface current. For the current can either be modelled via response theory or as a current derived from a magnetic Schrödinger equation. Because of its interdisciplinary aspects, this project will be conducted together with the Theoretical Optics & Photonics group of K. Busch at HU Berlin.
+
+![Experiment](experiment.pdf)
+
 Experiment
 Experimental setup
 
