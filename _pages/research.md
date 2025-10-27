@@ -23,6 +23,8 @@ where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter 
 ![\\(\kappa = 17\\)](plot_sol_kappa_17_h8.png)
 ![\\(\kappa = 24\\)](plot_sol_kappa_24_h8.png)
 
+test
+
 <p align="center">
   <img src="https://github.com/BenjaminDoerich/BenjaminDoerich.github.io/blob/main/images/plot_sol_kappa_24_h8.png" width="200"><br>
   <b>\(\kappa = 10\)</b>
