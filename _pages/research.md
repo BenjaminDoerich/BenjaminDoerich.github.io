@@ -17,9 +17,7 @@ Superconductors are materials that allow to conduct electricity without any elec
 
 $$E(u,\mathbf{A}) = \frac{1}{2} \int_\Omega |\frac{i}{\kappa} \nabla u + \mathbf{A} u |^2 + \frac{1}{2} \bigl( 1- |u|^2 \bigr)^2 + |\textup{curl} \mathbf{A} - \mathbf{H}|^2  \,dx, $$
 
-where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter $\kappa$ is crucial for the appearance of vortices. The so-called high-\\(\kappa\\) regime is the physically most interesting regime, but numerically it is also the most challenging one because it requires fine meshes to resolve all lattice structures. In our research we want to understand how we have to discretize this problem in order to capture the correct vortex patterns.
-
-The following plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,2\\).
+where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter $\kappa$ is crucial for the appearance of vortices. The so-called high-\\(\kappa\\) regime is the physically most interesting regime, but numerically it is also the most challenging one because it requires fine meshes to resolve all lattice structures. In our research we want to understand how we have to discretize this problem in order to capture the correct vortex patterns. The following plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,2\\).
 
 ![\\(\kappa = 10\\)](plot_sol_kappa_10_h8.png)
 ![\\(\kappa = 17\\)](plot_sol_kappa_17_h8.png)
