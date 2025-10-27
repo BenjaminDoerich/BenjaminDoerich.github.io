@@ -23,7 +23,7 @@ where \\(\mathbf{H}\\) is the applied magnetic field. The size of the parameter 
 ![\\(\kappa = 17\\)](plot_sol_kappa_17_h8.png)
 ![\\(\kappa = 24\\)](plot_sol_kappa_24_h8.png)
 
-  The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
+The plots depict the density \\(|u|^2\\) of minimizers for the different values of \\(\kappa=10,17,24\\).
 
 
 
