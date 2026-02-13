@@ -18,7 +18,7 @@ redirect_from:
 
 ## Peer-reviewed articles
 
-1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations. (accepted in Math. Comp.)  [Preprint](https://arxiv.org/pdf/2505.22532)
+1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations. (accepted in Math. Comp.) [Link](https://doi.org/10.1090/mcom/4194), [Preprint](https://arxiv.org/pdf/2505.22532)
 1. J. Careaga, B. Dörich, and V. Nikolić: Finite element discretization of nonlinear models of ultrasound heating. ESAIM: M2AN 60:111–141, 2026. [Link](https://doi.org/10.1051/m2an/2025099), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-3.pdf)
 1. B. Dörich, J. Dörner, and M. Hochbruck: Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions.  Math. Comp., 1–31, 2026. Online first. [Link](https://doi.org/10.1090/mcom/4170), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-16.pdf)
 1. S. Burkhard, B. Dörich, M. Hochbruck, and C. Lasser: Variational Gaussian approximation for the magnetic Schrödinger equation. J. Phys. A: Math. Theor. 57, 295202, 2024. [Link](https://doi.org/10.1088/1751-8121/ad591e),  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2023-4.pdf)
