@@ -36,7 +36,7 @@ redirect_from:
 
 ## Software
 
-1. S. Daubner, A. E. Cohen, B. Dörich, S. J. Cooper: "evoxels: A differentiable physics framework for voxel-based microstructure simulations." [Preprint](https://arxiv.org/abs/2507.21748)
+1. S. Daubner, A. E. Cohen, B. Dörich, S. J. Cooper: evoxels: A differentiable physics framework for voxel-based microstructure simulations. Journal of Open Source Software, 11(119):9733, 2026. [Link](https://doi.org/10.21105/joss.09733), [Preprint](https://arxiv.org/abs/2507.21748)
 
 ## Thesis
 
