@@ -12,6 +12,9 @@ redirect_from:
 
 ## Preprints
 
+1. M. Crocoll, C. Döding, B. Dörich, and R. Maier. GLENN: Neural network-enhanced computation of Ginzburg–Landau energy minimizers. [Preprint](https://arxiv.org/abs/2603.19096)
+1. B. Dörich, R. Maier, and L. Ullmer. Complexity bounds on neural networks for the solution of structured linear systems of equations, 2026. [Preprint](https://arxiv.org/abs/2603.19043)
+1. B. Dörich and J. Dörner. Leapfrog Crank–Nicolson decoupling of wave-heat-type problems. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-9.pdf)
 1. B. Dörich: Approximation of minimizers of the Ginzburg--Landau energy in non-convex domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-44.pdf)
 1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. B. Dörich and V. Nikolić:  Robust fully discrete error bounds for the Kuznetsov equations in the inviscid limit.  [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-1.pdf)
