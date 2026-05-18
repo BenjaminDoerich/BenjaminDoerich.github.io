@@ -20,7 +20,7 @@ redirect_from:
 
 ## Peer-reviewed articles
 
-1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. (accepted in Numer. Math.) [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
+1. C. Döding, B. Dörich, and P. Henning: A multiscale approach to the stationary Ginzburg–Landau equations of superconductivity. Numer. Math. [Link](https://doi.org/10.1007/s00211-026-01544-4), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-21.pdf)
 1. R. Altmann, B. Dörich, and C. Zimmer: Gautschi-type and implicit--explicit integrators for constrained wave equations. Math. Comp., 29pp., 2026. Online first. [Link](https://doi.org/10.1090/mcom/4194), [Preprint](https://arxiv.org/pdf/2505.22532)
 1. J. Careaga, B. Dörich, and V. Nikolić: Finite element discretization of nonlinear models of ultrasound heating. ESAIM: M2AN 60:111–141, 2026. [Link](https://doi.org/10.1051/m2an/2025099), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2025-3.pdf)
 1. B. Dörich, J. Dörner, and M. Hochbruck: Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions.  Math. Comp., 1–31, 2026. Online first. [Link](https://doi.org/10.1090/mcom/4170), [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2024-16.pdf)
