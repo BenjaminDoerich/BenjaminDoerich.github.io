@@ -12,8 +12,8 @@ redirect_from:
 
 ## Preprints
 
-1. J. Cao, B. Dörich, and B. Li.: A finite element exponential integrator for rough solutions of semilinear wave equations. Part II: Dynamic boundary conditions. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-30.pdf)
-1. J. Cao, B. Dörich, M. Hochbruck, and B. Li.:  A finite element exponential integrator for rough solutions of semilinear wave equations. Part I: Dirichlet boundary conditions. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-29.pdf)  
+1. J. Cao, B. Dörich, and B. Li.: Finite element exponential integration for rough solutions of nonlinear wave equations. Part II: Dynamic boundary conditions on curved domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-30.pdf)
+1. J. Cao, B. Dörich, M. Hochbruck, and B. Li.:  Finite element exponential integration for rough solutions of nonlinear wave equations. Part I: Dirichlet boundary conditions on polygonal and polyhedral domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-29.pdf)  
 1. M. Crocoll, C. Döding, B. Dörich, and R. Maier. GLENN: Neural network-enhanced computation of Ginzburg–Landau energy minimizers. [Preprint](https://arxiv.org/abs/2603.19096)
 1. B. Dörich, R. Maier, and L. Ullmer. Complexity bounds on neural networks for the solution of structured linear systems of equations, 2026. [Preprint](https://arxiv.org/abs/2603.19043)
 1. B. Dörich and J. Dörner. Leapfrog Crank–Nicolson decoupling of wave-heat-type problems. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-9.pdf)
