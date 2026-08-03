@@ -51,4 +51,4 @@ via an interface jump in the tangential component of the magnetic field \\(\math
  
 ## Numerical methods for nonlinear wave equations
 
-In this part, we study the time, space and full discretization of various nonlinear wave(-type) equations. These nonlinear effects pose severe challenges in the well-posedness of the problem as well as in the error analysis. Our overall goal is o construct and analyze reliable numerical methods via an interplay of the strategies from the wellposedness result and the restrictions (and advantages) from the finite dimensional subspace.
+In this part, we study the time, space and full discretization of various nonlinear wave(-type) equations. These nonlinear effects pose severe challenges in the well-posedness of the problem as well as in the error analysis. Our overall goal is to construct and analyze reliable numerical methods via an interplay of the strategies from the wellposedness result and the restrictions (and advantages) from the finite dimensional subspace.
