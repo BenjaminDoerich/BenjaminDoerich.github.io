@@ -29,9 +29,9 @@ author:
   avatar           : "doerich_kit.jpg"
   name             : #"Benjamin Dörich"
   pronouns         : # example: "she/her"  
-  bio              : "Junior research group leader at Karlsruhe Institute of Technology"
-  location         : "Karlsruhe, Germany "
-  employer         : #"Karlsruhe Institute of Technology"
+  bio              : # "Postdoctoral Researcher<br>Principal Investigator in CRC 1173"
+  location         : "Saarland, Germany "
+  employer         : #"Saarland University"
   uri              : # URL
   email            : "benjamin.doerich@kit.edu" 
 
