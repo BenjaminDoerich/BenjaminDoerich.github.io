@@ -29,7 +29,7 @@ author:
   avatar           : "doerich_kit.jpg"
   name             : #"Benjamin Dörich"
   pronouns         : # example: "she/her"  
-  bio              : # "Postdoctoral Researcher<br>Principal Investigator in CRC 1173"
+  bio              : "Postdoctoral Researcher<br>Principal Investigator in CRC 1173"
   location         : "Saarland, Germany "
   employer         : #"Saarland University"
   uri              : # URL
