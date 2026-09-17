@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Principal Investigator  of the project [''B10: Numerical methods for nonlinear optics in plasmonic nanogaps''](https://www.waves.kit.edu/B10.php) at Karlsruhe Institute of Technology within the Collaborative Research Center (CRC) 1173 [Wave phenomena: analysis and numerics](https://www.waves.kit.edu/) and a PostDoc at the Saarland University in the group of [''Prof. Andreas Rupp''](https://andreas-rupp.eu/).
+I am a Principal Investigator  of the project [''B10: Numerical methods for nonlinear optics in plasmonic nanogaps''](https://www.waves.kit.edu/B10.php) at Karlsruhe Institute of Technology within the Collaborative Research Center (CRC) 1173 [Wave phenomena: analysis and numerics](https://www.waves.kit.edu/) and a PostDoc at the Saarland University in the group of [Prof. Andreas Rupp](https://andreas-rupp.eu/).
 
 <!-- Links to my [ORCID](https://orcid.org/0000-0001-5840-2270) and [Google Scholar](https://scholar.google.de/citations?user=h9b6i00AAAAJ&hl=en) page. -->
 
