@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Saarland University
+## Saarland University
 
 * Teaching assistant, Function spaces with applications, Winter 2026/27
 * Seminar organizer, Functions of matrices, Winter 2026/27
 
-# Karlsruhe Institute of Technology (KIT)
+## Karlsruhe Institute of Technology (KIT)
 
-## Co-lecturer
+### Co-lecturer
 
 * Finite element methods, Winter 2025/26
 * Introduction to scientific computing, Summer 2025
@@ -24,11 +24,11 @@ redirect_from:
 * Exponential integrators, Winter 2021/22
 
 
-## Organizer of a reading course
+### Organizer of a reading course
 
 * "From Quantum to Classical Molecular Dynamics: Reduced Models and Numerical Analysis", Summer 2021
 
-## Teaching assistant
+### Teaching assistant
 
 * Seminar on selected topics of numerical analysis, Winter 2024/25
 * Time integration of partial differential equations, Summer 2023
