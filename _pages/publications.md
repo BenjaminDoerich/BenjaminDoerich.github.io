@@ -12,6 +12,7 @@ redirect_from:
 
 ## Preprints
 
+1. B. D\"orich, F. Krumbiegel, J. Rogava, A. Rupp, Z. Vashakidze: Conservative Finite Element Methods for Kirchhoff-Type Equations. [Preprint](https://arxiv.org/pdf/2610.31487)
 1. J. Cao, B. Dörich, and B. Li.: Finite element exponential integration for rough solutions of nonlinear wave equations. Part II: Dynamic boundary conditions on curved domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-30.pdf)
 1. J. Cao, B. Dörich, M. Hochbruck, and B. Li.:  Finite element exponential integration for rough solutions of nonlinear wave equations. Part I: Dirichlet boundary conditions on polygonal and polyhedral domains. [Preprint](https://www.waves.kit.edu/downloads/CRC1173_Preprint_2026-29.pdf)  
 1. M. Crocoll, C. Döding, B. Dörich, and R. Maier. GLENN: Neural network-enhanced computation of Ginzburg–Landau energy minimizers. [Preprint](https://arxiv.org/abs/2603.19096)
